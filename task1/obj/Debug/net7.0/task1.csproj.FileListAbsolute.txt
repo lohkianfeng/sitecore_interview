@@ -1,0 +1,15 @@
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.AssemblyInfo.cs
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/bin/Debug/net7.0/task1
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/bin/Debug/net7.0/task1.deps.json
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/bin/Debug/net7.0/task1.runtimeconfig.json
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/bin/Debug/net7.0/task1.dll
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/bin/Debug/net7.0/task1.pdb
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.dll
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/refint/task1.dll
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.pdb
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/task1.genruntimeconfig.cache
+/home/feng/Documents/coding_stuff/sitecore_interview/task1/obj/Debug/net7.0/ref/task1.dll
